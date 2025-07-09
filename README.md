@@ -28,10 +28,9 @@ Python 3.7+
 pandas, numpy, matplotlib, scikit-learn
 
 Install with:
-```pip install pandas numpy matplotlib scikit-learn
+```
+pip install pandas numpy matplotlib scikit-learn
 ```
 
-Combined trade data CSV
-PnL and toxicity plots
-Console summary of results
-Note: Make sure CSV files follow Binance's aggTrades format and are named like SYMBOL-aggTrades-YYYY-MM-DD.csv
+**Note: Make sure CSV files follow Binance's aggTrades format and are named like SYMBOL-aggTrades-YYYY-MM-DD.csv
+**
